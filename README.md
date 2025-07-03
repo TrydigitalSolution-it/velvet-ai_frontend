@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# carwash_admin_panel
-React Carwash
+# velvet_admin_panel
+React Velvet
 =======
 # Getting Started with Create React App
 
